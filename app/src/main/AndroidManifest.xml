@@ -19,7 +19,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
+                <!-- Accepts URIs that begin with "http://www.example.com/goapp” -->
                 <data android:scheme="http"
                       android:host="www.example.com"
                       android:pathPrefix="/goapp" />
