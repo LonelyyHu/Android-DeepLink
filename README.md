@@ -1,7 +1,7 @@
 # Android-DeepLink
 
 Android Deep Link Test   
-http://www.example.com/goapp
+http://www.example.com/goapp?id=3
 
 
 ## Reference 
